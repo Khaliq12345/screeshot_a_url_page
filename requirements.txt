@@ -1,3 +1,4 @@
 fastapi
 uvicorn
 html2image
+requests
