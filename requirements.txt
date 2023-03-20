@@ -1,4 +1,1 @@
-fastapi
-uvicorn
-html2image
-requests
+playwright
